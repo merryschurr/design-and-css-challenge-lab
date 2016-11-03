@@ -44,7 +44,7 @@ Developer @GA in NYC
 /******************************************
 /* BASE STYLES
 /*******************************************/
-
+/*
 body {
      color: #000;
      font-size: 12px;
@@ -53,14 +53,14 @@ body {
      background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
       background-size: cover;
 }
-
+*/
 
 /******************************************
 /* LAYOUT
 /*******************************************/
 
 /* Center the container */
-#container {
+/*#container {
   width: 100%;
   margin: auto;
   height: 500px;
@@ -73,7 +73,7 @@ header {
 
 footer {
 
-}
+}*/
 
 /******************************************
 /* ADDITIONAL STYLES

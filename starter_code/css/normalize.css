@@ -169,9 +169,9 @@ strong {
     font-weight: bold;
 }
 
-blockquote {
+/*blockquote {
     margin: 1em 40px;
-}
+}*/
 
 /*
  * Addresses styling not present in S5, Chrome.
@@ -315,10 +315,10 @@ nav ol {
  *    code.flickr.com/blog/2008/11/12/on-ui-quality-the-little-things-client-side-image-resizing/
  */
 
-/*img {
+img {
     border: 0; /* 1 */
     -ms-interpolation-mode: bicubic; /* 2 */
-}*/
+}
 
 /*
  * Corrects overflow displayed oddly in IE9.
